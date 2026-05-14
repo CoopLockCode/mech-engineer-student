@@ -1,6 +1,6 @@
 # Calculus I–III Reference
 
-A comprehensive, graduate-level study companion covering the full single- and multivariable calculus sequence as taught at Kennesaw State University:
+A comprehensive, graduate-level study companion covering the full single- and multivariable calculus sequence:
 
 - **Calculus I (MATH 1190)** — limits, continuity, derivatives, applications of differentiation, introduction to integration
 - **Calculus II (MATH 2202)** — integration techniques, applications of integrals, sequences & series, parametric equations & polar coordinates

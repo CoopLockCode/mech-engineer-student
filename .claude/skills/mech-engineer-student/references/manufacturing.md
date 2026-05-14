@@ -1,6 +1,6 @@
 # Manufacturing Engineering Reference
 
-PhD-level study companion for ME 3701 — Manufacturing Engineering, Kennesaw State University.
+PhD-level study companion for ME 3701 — Manufacturing Engineering.
 Covers casting, bulk & sheet forming/forging, machining (turning, milling, drilling — cutting mechanics, tool life/Taylor's equation), joining & welding, powder metallurgy, additive manufacturing, metrology & GD&T, and process selection.
 
 Math is in plain text: `x^2` = x squared, `sqrt(x)` = square root, subscripts inline (v_c).

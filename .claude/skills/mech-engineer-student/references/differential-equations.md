@@ -1,6 +1,6 @@
 # Differential Equations Reference
 
-> Graduate-level study companion for **MATH 2306 — Ordinary Differential Equations** (Kennesaw State University).
+> Graduate-level study companion for **MATH 2306 — Ordinary Differential Equations**.
 > Covers first-order ODEs, second-order linear ODEs, higher-order linear ODEs, systems of ODEs, Laplace transforms, series solutions, and mechanical/electrical applications.
 > Math is written in plain text: `y'` = dy/dx, `∫` = integral, `Σ` = sum, `√` = square root, `≈` = approximately.
 

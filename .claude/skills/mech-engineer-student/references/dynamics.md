@@ -1,6 +1,6 @@
 # Dynamics Reference
 
-A graduate-level study companion for **ENGR 3122 — Dynamics** (Kennesaw State University). Covers kinematics and kinetics of particles and rigid bodies, Newton-Euler equations, work-energy methods, impulse-momentum methods, rotational dynamics, relative motion, and an introduction to vibrations.
+A graduate-level study companion for **ENGR 3122 — Dynamics**. Covers kinematics and kinetics of particles and rigid bodies, Newton-Euler equations, work-energy methods, impulse-momentum methods, rotational dynamics, relative motion, and an introduction to vibrations.
 
 Dynamics studies bodies **in motion** and the forces causing that motion. It splits into two halves:
 - **Kinematics** — the geometry of motion: position, velocity, acceleration. No forces involved.

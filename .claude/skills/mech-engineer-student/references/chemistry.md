@@ -1,6 +1,6 @@
 # Engineering Chemistry Reference
 
-> CHEM 1211 (Kennesaw State University). Graduate-level study companion: precise definitions, governing laws, derivations, problem-solving procedures, worked-example patterns, constants, and common student pitfalls. Plain-text notation throughout.
+> CHEM 1211. Graduate-level study companion: precise definitions, governing laws, derivations, problem-solving procedures, worked-example patterns, constants, and common student pitfalls. Plain-text notation throughout.
 
 ---
 

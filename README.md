@@ -22,7 +22,8 @@ working in.
 
 **Option A — use it inside this project:**
 ```
-cd C:\Users\CooperLockridge\Projects\mech-engineer-student
+git clone https://github.com/CoopLockCode/mech-engineer-student.git
+cd mech-engineer-student
 claude
 ```
 Then just ask: *"help me with this statics problem: ..."* — the skill triggers
@@ -55,8 +56,8 @@ that later — the skill is self-contained and portable.
 ## Reference library
 
 `references/` holds a comprehensive, PhD-level reference file for **every course
-in the KSU B.S. Mechanical Engineering curriculum** — ~12,000 lines covering
-calculus through controls. Each file has definitions, theorems, full formula
+in a standard undergraduate mechanical engineering curriculum** — ~12,000 lines
+covering calculus through controls. Each file has definitions, theorems, full formula
 sets, derivations, solution procedures, worked-example patterns, and common
 pitfalls, built from open-access textbooks (OpenStax, LibreTexts, MIT OCW,
 Mechanics Map, Felippa's IFEM, Lienhard's *A Heat Transfer Textbook*, and more).
@@ -73,8 +74,8 @@ file routing table.
 
 ## License
 
-Mechanical Engineering Student Skill © 2026 Cooper Lockridge, licensed under
-[CC BY-NC-SA 4.0](LICENSE) (Attribution–NonCommercial–ShareAlike).
+mech-engineer-student © 2026 the mech-engineer-student project contributors,
+licensed under [CC BY-NC-SA 4.0](LICENSE) (Attribution–NonCommercial–ShareAlike).
 
 The reference files were synthesized from open-access textbooks — OpenStax,
 LibreTexts, MIT OpenCourseWare, Mechanics Map, Felippa's IFEM, Lienhard's

@@ -1,6 +1,6 @@
 # Numerical Methods & MATLAB Reference
 
-> Graduate-level study companion for **ME 1311 — MATLAB for Engineers / Numerical Methods** (Kennesaw State University).
+> Graduate-level study companion for **ME 1311 — MATLAB for Engineers / Numerical Methods**.
 > Covers MATLAB programming constructs, root finding, linear systems, interpolation, curve fitting, numerical differentiation/integration, and numerical ODE solvers.
 > Math is plain text: `Σ` = sum, `∫` = integral, `≈` ≈, `√` = square root, `∂` = partial derivative, `|x|` = absolute value.
 

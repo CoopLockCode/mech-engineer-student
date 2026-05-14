@@ -81,7 +81,7 @@ given data — usually 3) and **explicit units**.
 ## Reference library
 
 `references/` holds a comprehensive, PhD-level reference file for every course in
-the KSU B.S. Mechanical Engineering curriculum — definitions, theorems, full
+a standard undergraduate mechanical engineering curriculum — definitions, theorems, full
 formula sets, derivations, solution procedures, worked-example patterns, and
 common pitfalls, sourced from open-access textbooks (OpenStax, LibreTexts, MIT
 OCW, Mechanics Map, Felippa's IFEM, Lienhard's Heat Transfer Textbook, and more).

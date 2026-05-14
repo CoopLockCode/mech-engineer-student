@@ -1,6 +1,6 @@
 # Statics Reference
 
-A graduate-level study companion for **ENGR 2214 — Statics** (Kennesaw State University). Covers force systems, equilibrium of particles and rigid bodies, structural analysis (trusses, frames, machines), distributed loads, centroids, area moments of inertia, friction, and internal forces with shear/moment diagrams.
+A graduate-level study companion for **ENGR 2214 — Statics**. Covers force systems, equilibrium of particles and rigid bodies, structural analysis (trusses, frames, machines), distributed loads, centroids, area moments of inertia, friction, and internal forces with shear/moment diagrams.
 
 Statics is the branch of mechanics that studies bodies in **equilibrium** — at rest or moving with constant velocity — so that the net force and net moment acting on the body are both zero. Every problem in this course reduces to drawing a correct free-body diagram and applying ΣF = 0 and ΣM = 0.
 

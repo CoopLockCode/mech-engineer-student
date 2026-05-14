@@ -1,6 +1,6 @@
 # Engineering Graphics Reference
 
-Study companion for EDG 1211 — Engineering Graphics, Kennesaw State University.
+Study companion for EDG 1211 — Engineering Graphics.
 Covers orthographic & isometric projection, multiview drawing, sectioning, auxiliary views, dimensioning, conventional tolerancing, GD&T fundamentals, and CAD modeling concepts. Written at a depth that supports a graduate-level tutor explaining the *why* behind every convention.
 
 Math is in plain text: subscripts inline, `x^2` = x squared.

@@ -1,6 +1,6 @@
 # Materials Science & Engineering Reference
 
-PhD-level study companion for ME 3101 — Materials Science & Engineering, Kennesaw State University.
+PhD-level study companion for ME 3101 — Materials Science & Engineering.
 Covers atomic bonding, crystal structures & defects, diffusion, mechanical behavior & testing, dislocations & strengthening, failure (fracture/fatigue/creep), phase diagrams & the Fe-C system, heat treatment, polymers, ceramics, composites, electrical/thermal properties, and corrosion.
 
 Math is in plain text: `x^2` = x squared, `sqrt(x)` = square root, `d^(-1/2)` = d to the minus one-half, subscripts written inline (sigma_y).

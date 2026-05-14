@@ -1,6 +1,6 @@
 # Probability & Statistics Reference
 
-> Graduate-level study companion for **STAT 2332 — Probability & Data Analysis / Statistics** (Kennesaw State University).
+> Graduate-level study companion for **STAT 2332 — Probability & Data Analysis / Statistics**.
 > Covers probability theory, random variables, distributions, descriptive & inferential statistics, hypothesis testing, regression, and engineering data analysis.
 > Math is plain text: `Σ` = sum, `√` = square root, `μ` = mean, `σ` = standard deviation, `≈` ≈, `∫` = integral, `P(A)` = probability of A, `E[X]` = expected value.
 

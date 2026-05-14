@@ -19,3 +19,8 @@ node_modules/
 *.pdf
 homework/
 sources/
+
+# Personal / private working files — never publish
+premortem-*
+*-private.*
+notes/
