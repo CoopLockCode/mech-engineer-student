@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (if a web app gets added later)
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# Never commit copyrighted course material / homework
+*.pdf
+homework/
+sources/
