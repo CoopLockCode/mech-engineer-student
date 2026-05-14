@@ -1,6 +1,6 @@
 # Physics II — Calculus-Based Electricity & Magnetism Reference
 
-> PHYS 2212. Graduate-level study companion: precise definitions, governing laws (Maxwell's equations in integral form), derivations, problem-solving procedures, worked-example patterns, constants, and common student pitfalls. Plain-text math notation (`^` = power, `∫` = integral, `∮` = closed-loop/closed-surface integral, vectors in **bold**).
+> Physics II — Calculus-Based Electricity & Magnetism. Graduate-level study companion: precise definitions, governing laws (Maxwell's equations in integral form), derivations, problem-solving procedures, worked-example patterns, constants, and common student pitfalls. Plain-text math notation (`^` = power, `∫` = integral, `∮` = closed-loop/closed-surface integral, vectors in **bold**).
 
 ---
 

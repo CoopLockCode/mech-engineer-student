@@ -1,6 +1,6 @@
 # Fluid Mechanics Reference
 
-> Graduate-level study companion for ME 3343 (Fluid Mechanics / Fluid Dynamics). Covers fluid properties, fluid statics, control-volume analysis (continuity, momentum, energy), Bernoulli, dimensional analysis and similitude, internal flow (laminar/turbulent, Moody chart, head loss), external flow (drag, lift, boundary layers), and the Navier–Stokes equations. Plain-text math: `*` multiply, `/` divide, `^` power, `d/dx` derivative, `D/Dt` material derivative, `del` for the gradient operator, Greek spelled out (rho, mu, nu, tau).
+> Graduate-level study companion for Fluid Mechanics / Fluid Dynamics. Covers fluid properties, fluid statics, control-volume analysis (continuity, momentum, energy), Bernoulli, dimensional analysis and similitude, internal flow (laminar/turbulent, Moody chart, head loss), external flow (drag, lift, boundary layers), and the Navier–Stokes equations. Plain-text math: `*` multiply, `/` divide, `^` power, `d/dx` derivative, `D/Dt` material derivative, `del` for the gradient operator, Greek spelled out (rho, mu, nu, tau).
 
 ---
 

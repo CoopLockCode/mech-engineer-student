@@ -1,6 +1,6 @@
 # Physics I — Calculus-Based Mechanics Reference
 
-> PHYS 2211. Graduate-level study companion: precise definitions, governing laws, derivations, problem-solving procedures, worked-example patterns, constants, and common student pitfalls. Plain-text math notation throughout (`^` = power, `*` = multiply, `d/dt` = derivative, `∫` = integral, vectors in **bold** or with explicit components).
+> Physics I — Calculus-Based Mechanics. Graduate-level study companion: precise definitions, governing laws, derivations, problem-solving procedures, worked-example patterns, constants, and common student pitfalls. Plain-text math notation throughout (`^` = power, `*` = multiply, `d/dt` = derivative, `∫` = integral, vectors in **bold** or with explicit components).
 
 ---
 

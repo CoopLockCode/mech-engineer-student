@@ -2,15 +2,15 @@
 
 A comprehensive, graduate-level study companion covering the full single- and multivariable calculus sequence:
 
-- **Calculus I (MATH 1190)** — limits, continuity, derivatives, applications of differentiation, introduction to integration
-- **Calculus II (MATH 2202)** — integration techniques, applications of integrals, sequences & series, parametric equations & polar coordinates
-- **Calculus III (MATH 2203)** — vectors & 3-D geometry, vector-valued functions, multivariable differential calculus, multiple integrals, vector calculus (Green's, Stokes', Divergence theorems)
+- **Calculus I** — limits, continuity, derivatives, applications of differentiation, introduction to integration
+- **Calculus II** — integration techniques, applications of integrals, sequences & series, parametric equations & polar coordinates
+- **Calculus III** — vectors & 3-D geometry, vector-valued functions, multivariable differential calculus, multiple integrals, vector calculus (Green's, Stokes', Divergence theorems)
 
 Notation conventions used throughout: `lim` = limit, `∫` = integral, `Σ` = summation, `∂` = partial derivative, `∇` = del/gradient operator, `→` = vector or "approaches", `∞` = infinity, `⇒` = implies, `∈` = element of. Vectors are written in bold-equivalent as **v** or with the component form ⟨a, b, c⟩.
 
 ---
 
-# PART I — CALCULUS I (MATH 1190)
+# PART I — CALCULUS I
 
 ## 1. Functions and Precalculus Foundations
 
@@ -291,7 +291,7 @@ Reverses the chain rule. For ∫ f(g(x)) g′(x) dx, let u = g(x), du = g′(x) 
 
 ---
 
-# PART II — CALCULUS II (MATH 2202)
+# PART II — CALCULUS II
 
 ## 6. Techniques of Integration
 
@@ -515,7 +515,7 @@ A point is (r, θ): r = directed distance from the pole, θ = angle from the pol
 
 ---
 
-# PART III — CALCULUS III (MATH 2203)
+# PART III — CALCULUS III
 
 ## 10. Vectors and the Geometry of Space
 

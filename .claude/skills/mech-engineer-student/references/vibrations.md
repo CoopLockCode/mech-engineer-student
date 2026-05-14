@@ -1,6 +1,6 @@
 # Machine Dynamics & Vibrations Reference
 
-> PhD-level study companion for ENGR 3125 — Machine Dynamics & Vibrations.
+> PhD-level study companion for Machine Dynamics & Vibrations.
 > Covers free/forced vibration of SDOF systems (undamped & damped), harmonic and base
 > excitation, transmissibility, rotating unbalance, vibration isolation, multi-DOF systems,
 > natural frequencies & mode shapes, continuous systems, and kinematics/dynamics of mechanisms.

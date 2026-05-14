@@ -1,7 +1,7 @@
 # Strength of Materials Reference
 
 A graduate-level study companion for Strength of Materials / Mechanics of Materials
-(ENGR 3131/3132). Covers stress and strain, axial loading, torsion, bending,
+Covers stress and strain, axial loading, torsion, bending,
 transverse shear, stress transformation and Mohr's circle, combined loading, beam
 deflection, columns and buckling, pressure vessels, and energy methods. Plain-text
 math notation throughout: `^` = power, `*` = multiply, `sqrt()` = square root,

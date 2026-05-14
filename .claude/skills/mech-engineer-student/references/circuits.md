@@ -1,6 +1,6 @@
 # Electronic Circuits & Machines Reference
 
-> PhD-level study companion for EE 2305 — Electronic Circuits & Machines.
+> PhD-level study companion for Electronic Circuits & Machines.
 > Covers DC & AC circuit analysis (KVL/KCL, Thevenin/Norton, superposition, mesh/nodal),
 > RC/RL/RLC transients, phasors & impedance, AC power, operational amplifiers, diodes &
 > transistors, and electric machines (transformers, DC motors, induction motors).

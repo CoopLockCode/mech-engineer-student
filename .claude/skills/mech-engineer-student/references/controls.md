@@ -1,6 +1,6 @@
 # Dynamic Systems & Control Theory Reference
 
-> PhD-level study companion for ME 3501 — Dynamic Systems & Control Theory.
+> PhD-level study companion for Dynamic Systems & Control Theory.
 > Covers system modeling (mechanical, electrical, fluid, thermal), transfer functions and
 > state-space, Laplace-domain analysis, time-domain response (first/second order), block
 > diagrams, stability (Routh-Hurwitz), root locus, frequency response (Bode, Nyquist), and

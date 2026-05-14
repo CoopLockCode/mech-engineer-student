@@ -1,6 +1,6 @@
 # Thermodynamics Reference
 
-> Graduate-level study companion for ME 3410 (Thermodynamics). Covers properties of pure substances, ideal and real gases, the first law (closed and open systems), the second law, entropy, exergy, and power/refrigeration cycles. Plain-text math notation throughout: `*` multiply, `/` divide, `^` power, Greek spelled out (eta, rho, etc.). Subscripts written inline (h_f, T_H).
+> Graduate-level study companion for Thermodynamics. Covers properties of pure substances, ideal and real gases, the first law (closed and open systems), the second law, entropy, exergy, and power/refrigeration cycles. Plain-text math notation throughout: `*` multiply, `/` divide, `^` power, Greek spelled out (eta, rho, etc.). Subscripts written inline (h_f, T_H).
 
 ---
 

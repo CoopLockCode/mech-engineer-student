@@ -1,6 +1,6 @@
 # Machine Design Reference
 
-A graduate-level study companion for Machine Design I (ME 4141). Covers design for
+A graduate-level study companion for Machine Design I. Covers design for
 static failure, design for fatigue failure, failure theories (MSST/Tresca,
 DET/von Mises, MNST/Coulomb-Mohr), stress concentration, shaft design, fasteners and
 bolted joints, welded joints, springs, bearings, gears, and design factors of safety.

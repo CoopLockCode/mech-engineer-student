@@ -1,6 +1,6 @@
 # Heat Transfer Reference
 
-> Graduate-level study companion for ME 3440 (Heat Transfer). Covers conduction (1-D/2-D, transient, fins, lumped capacitance), convection (free and forced, internal and external, dimensionless groups, Nusselt correlations), radiation (blackbody, view factors, exchange), and heat exchangers (LMTD and effectiveness-NTU). Plain-text math: `*` multiply, `/` divide, `^` power, `d/dx` derivative, `del^2` Laplacian, Greek spelled out (rho, alpha, epsilon, sigma, theta).
+> Graduate-level study companion for Heat Transfer. Covers conduction (1-D/2-D, transient, fins, lumped capacitance), convection (free and forced, internal and external, dimensionless groups, Nusselt correlations), radiation (blackbody, view factors, exchange), and heat exchangers (LMTD and effectiveness-NTU). Plain-text math: `*` multiply, `/` divide, `^` power, `d/dx` derivative, `del^2` Laplacian, Greek spelled out (rho, alpha, epsilon, sigma, theta).
 
 ---
 

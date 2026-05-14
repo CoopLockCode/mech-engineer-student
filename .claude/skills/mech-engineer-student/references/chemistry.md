@@ -1,6 +1,6 @@
 # Engineering Chemistry Reference
 
-> CHEM 1211. Graduate-level study companion: precise definitions, governing laws, derivations, problem-solving procedures, worked-example patterns, constants, and common student pitfalls. Plain-text notation throughout.
+> Engineering Chemistry. Graduate-level study companion: precise definitions, governing laws, derivations, problem-solving procedures, worked-example patterns, constants, and common student pitfalls. Plain-text notation throughout.
 
 ---
 
@@ -462,7 +462,7 @@ rate = k [A]^m [B]^n
 ## 12. General Problem-Solving Strategy (Chemistry)
 
 1. **Identify what is asked and what is given;** write down units.
-2. **Set up a dimensional-analysis chain** — most CHEM 1211 problems are conversions through the mole.
+2. **Set up a dimensional-analysis chain** — most introductory chemistry problems are conversions through the mole.
 3. For reactions: **balance the equation first**, then use mole ratios.
 4. **Watch significant figures** and carry extra digits until the end.
 5. **Sanity-check:** correct order of magnitude? Physically reasonable sign and direction? Units correct?

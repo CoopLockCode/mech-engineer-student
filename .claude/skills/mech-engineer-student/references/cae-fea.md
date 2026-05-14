@@ -1,6 +1,6 @@
 # Computer-Aided Engineering / Finite Element Analysis Reference
 
-PhD-level study companion for ME 4250 — Computer-Aided Engineering / Finite Element Analysis.
+PhD-level study companion for Computer-Aided Engineering / Finite Element Analysis.
 Covers FEA theory (discretization, shape functions, stiffness matrices, assembly, boundary conditions), the direct stiffness method, variational/weak formulations, element types, meshing best practices, convergence, interpreting results, sources of error, and the CAD/CAE workflow.
 
 Math is in plain text: `[K]` = stiffness matrix, `{u}` = displacement vector, `^T` = transpose, `x^2` = x squared, `d/dx` = derivative, integral notation written `INT(...)dx`.

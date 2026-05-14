@@ -1,6 +1,6 @@
 # Machine Kinematics Reference — Gears, Gear Trains, Cams, Power Screws & Mechanical Advantage
 
-> PhD-level study companion for ENGR 3125 — Machine Dynamics & Vibrations (textbook: Martin,
+> PhD-level study companion for Machine Dynamics & Vibrations (textbook: Martin,
 > *Kinematics and Dynamics of Machines*). This file **complements `vibrations.md`**, which covers
 > SDOF/MDOF vibration and linkage kinematics; this file covers the topics `vibrations.md` omits:
 > gear geometry, gear trains (simple, compound, reverted, epicyclic, worm, belt/chain), cam
