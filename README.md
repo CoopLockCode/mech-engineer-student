@@ -56,11 +56,16 @@ that later — the skill is self-contained and portable.
 ## Reference library
 
 `references/` holds a comprehensive, PhD-level reference file for **every course
-in a standard undergraduate mechanical engineering curriculum** — ~12,000 lines
+in a standard undergraduate mechanical engineering curriculum** — ~16,000 lines
 covering calculus through controls. Each file has definitions, theorems, full formula
 sets, derivations, solution procedures, worked-example patterns, and common
 pitfalls, built from open-access textbooks (OpenStax, LibreTexts, MIT OCW,
 Mechanics Map, Felippa's IFEM, Lienhard's *A Heat Transfer Textbook*, and more).
+
+Alongside them are **7 worked-examples banks — ~120 fully-solved practice
+problems**, each worked with the rigor protocol and verified against a published
+answer key. A handful carry a flagged correction where the published source
+itself had an error the verification caught.
 
 The skill reads the matching reference file before solving a problem, so answers
 come from verified material rather than memory. `SKILL.md` has the full topic →
@@ -91,7 +96,7 @@ mech-engineer-student/
 ├── README.md
 └── .claude/skills/mech-engineer-student/
     ├── SKILL.md                      # the skill — behavior, modes, rigor protocol, routing
-    └── references/                   # 23 PhD-level course references
+    └── references/                   # 23 course references + 7 worked-example banks
         ├── formula-reference.md      # quick formulas, all domains
         ├── calculus.md
         ├── differential-equations.md
@@ -114,5 +119,13 @@ mech-engineer-student/
         ├── vibrations.md
         ├── machine-kinematics.md
         ├── controls.md
-        └── circuits.md
+        ├── circuits.md
+        │
+        ├── worked-examples-math.md                    # ~120 verified worked problems,
+        ├── worked-examples-physics-chemistry.md       #   each checked against a
+        ├── worked-examples-statics-dynamics.md        #   published answer key
+        ├── worked-examples-mechanics-design.md
+        ├── worked-examples-thermal-fluids.md
+        ├── worked-examples-materials-manufacturing.md
+        └── worked-examples-systems.md
 ```

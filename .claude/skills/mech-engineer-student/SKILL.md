@@ -119,6 +119,27 @@ reference is one Read away. Routing:
 For a problem spanning multiple domains (most senior-level work does), read every
 relevant file. Token cost is not a constraint here — accuracy is.
 
+## Worked-examples bank
+
+`references/worked-examples-*.md` holds ~120 fully-worked practice problems, each
+solved with the rigor protocol and **verified against a published answer key**.
+When a question resembles one of these, read the matching file — the worked
+example is a verified template and a sanity check on your own solution.
+
+| Topic area | Worked-examples file |
+|---|---|
+| Calculus, ODEs, probability/statistics, numerical methods | `references/worked-examples-math.md` |
+| Physics (mechanics, E&M), chemistry | `references/worked-examples-physics-chemistry.md` |
+| Statics, dynamics | `references/worked-examples-statics-dynamics.md` |
+| Mechanics of materials, machine design | `references/worked-examples-mechanics-design.md` |
+| Thermodynamics, fluid mechanics, heat transfer | `references/worked-examples-thermal-fluids.md` |
+| Materials science, manufacturing, FEA | `references/worked-examples-materials-manufacturing.md` |
+| Vibrations, gear trains, controls, circuits | `references/worked-examples-systems.md` |
+
+A few problems carry a flagged **DISCREPANCY** — cases where the published source
+had an error the rigor protocol caught. Those entries show the corrected answer
+and why; treat them as worked cautionary tales, not mistakes to copy.
+
 ## Units discipline
 
 - Ask which system if not stated; default to SI unless the problem is clearly
