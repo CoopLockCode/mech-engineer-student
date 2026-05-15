@@ -43,21 +43,6 @@ Now it's available in every Claude Code session, any project.
 
 You can also invoke it explicitly with `/mech-engineer-student`.
 
-## About "helping people around the world"
-
-Right now this is a **personal** skill — it makes *your* Claude better at ME
-problems. It doesn't reach anyone else on its own.
-
-To actually share it with other students you'd need one of:
-- **Publish the skill** so others can install it into their own Claude Code.
-- **Wrap it in an app** — a web app where students paste a problem and get a
-  tutored walkthrough back. The skill's `SKILL.md` becomes the system prompt /
-  behavior spec for that app's Claude API calls.
-
-The app route is the real "around the world" path. The skill is the brain;
-the app would be the front door. This repo is structured so it can grow into
-that later — the skill is self-contained and portable.
-
 ## Reference library
 
 `references/` holds a comprehensive, PhD-level reference file for **every course
