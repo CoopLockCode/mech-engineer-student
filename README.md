@@ -10,9 +10,14 @@ machine design, and the rest of the ME core.
   next problem yourself.
 - **Solve mode** — say "just solve it" for a full worked solution without the
   teaching narration.
+- **Exam mode** — say "FE practice" or "practice test" for standardized-exam-
+  style answering: multi-pass verification, MCQ distractor analysis, recompute
+  via alternate method, NCEES Handbook–aligned notation, calibrated abstention.
 - **Full rigor on every problem** — states assumptions, draws the FBD/system
-  sketch, names the governing equation, solves symbolically, carries units, and
-  runs dimensional + limiting-case + order-of-magnitude checks before reporting.
+  sketch, names the governing equation, solves symbolically, **uses Python for
+  the arithmetic** (mental math drifts; tool execution doesn't), carries units,
+  and runs dimensional + limiting-case + order-of-magnitude checks before
+  reporting.
 
 ## How to use it
 
@@ -95,8 +100,9 @@ Free to use and adapt for non-commercial, educational purposes with attribution.
 mech-engineer-student/
 ├── README.md
 └── .claude/skills/mech-engineer-student/
-    ├── SKILL.md                      # the skill — behavior, modes, rigor protocol, routing
-    └── references/                   # 23 course references + 7 worked-example banks
+    ├── SKILL.md                      # tutor/solve/exam modes, rigor protocol, routing,
+    │                                 #   Python mandate, MCQ verification, vision protocol
+    └── references/                   # 26 references + 7 worked-example banks
         ├── formula-reference.md      # quick formulas, all domains
         ├── calculus.md
         ├── differential-equations.md
@@ -120,6 +126,11 @@ mech-engineer-student/
         ├── machine-kinematics.md
         ├── controls.md
         ├── circuits.md
+        ├── engineering-economics.md                   # time value of money, PW/AW,
+        │                                              #   depreciation, after-tax
+        ├── ethics-and-professional-practice.md        # NSPE Code, licensure, COI, IP
+        ├── fe-handbook-guide.md                       # NCEES FE Handbook alignment —
+        │                                              #   notation, equation locator
         │
         ├── worked-examples-math.md                    # ~120 verified worked problems,
         ├── worked-examples-physics-chemistry.md       #   each checked against a
